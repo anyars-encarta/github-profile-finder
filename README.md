@@ -68,7 +68,7 @@
 
 LIVE DEMO
 
-> Visit the [live](https://anyars-encarta.github.io/encarta-image-slider/) page of the project.
+> Visit the [live](https://anyars-encarta.github.io/github-profile-finder/) page of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
